@@ -21,7 +21,7 @@ Aspiring Full Stack Developer with a strong interest in building scalable and us
 
 ## Projects
 
-### Spotify-like Music Player (In Progress)
+### Spotify-like Music Player 
 Developing a web-based music streaming interface with dynamic UI components and structured state management.
 
 ### Personal Portfolio Website
@@ -45,5 +45,5 @@ To secure an opportunity as a Full Stack Developer where I can apply my technica
 
 ## Contact
 
-LinkedIn: Add your LinkedIn URL  
-Email: Add your email address  
+LinkedIn: https://www.linkedin.com/in/rasegapriya-vs-b33777296/  
+Email: rasegapriya0122@gmail.com 
