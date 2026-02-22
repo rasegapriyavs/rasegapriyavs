@@ -1,60 +1,49 @@
-# 👋 Hi, I'm Rasegapriya VS
+# Rasegapriya VS
 
-🎓 Computer Science Engineering Student  
-🏫 Panimalar Engineering College  
-🚀 Aspiring Full Stack Developer  
-💡 Passionate about building real-world web applications  
+Computer Science Engineering Student  
+Panimalar Engineering College  
 
----
-
-## 💻 Tech Stack
-
-- 🌐 HTML  
-- 🎨 CSS  
-- ⚡ JavaScript  
-- ⚛️ React (Learning & Building Projects)  
-- 🔥 Firebase (Learning)  
-- 🛢️ MySQL  
-- ☕ Java  
+Aspiring Full Stack Developer with a strong interest in building scalable and user-focused web applications. Currently focusing on strengthening frontend development skills while expanding knowledge in backend technologies and databases.
 
 ---
 
-## 📌 Currently Working On
+## Technical Skills
 
-- 🎵 Spotify-like Music Player Web App  
-- 🌐 Personal Portfolio Website  
-- 📚 Strengthening Frontend Development Skills  
-
----
-
-## 📈 Goals
-
-- Become a Full Stack Developer  
-- Contribute to Open Source  
-- Build impactful real-world projects  
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Firebase (Learning)  
+- MySQL  
+- Java  
 
 ---
 
-## 📫 Connect With Me
+## Projects
 
-- 💼 LinkedIn: https://www.linkedin.com/in/rasegapriya-vs-b33777296/
-- 📧 Email: rasegapriya0122@gmail.com
+### Spotify-like Music Player (In Progress)
+Developing a web-based music streaming interface with dynamic UI components and structured state management.
+
+### Personal Portfolio Website
+Designed and built a responsive portfolio website to showcase projects and technical skills.
 
 ---
 
-⭐ *“Consistency is the key to becoming a great developer.”*
+## Current Focus
 
-<!--
-**rasegapriyavs/rasegapriyavs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Improving problem-solving skills in Java  
+- Building real-world frontend projects  
+- Learning backend integration and database management  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Career Objective
+
+To secure an opportunity as a Full Stack Developer where I can apply my technical skills, continuously learn modern technologies, and contribute to meaningful software solutions.
+
+---
+
+## Contact
+
+LinkedIn: Add your LinkedIn URL  
+Email: Add your email address  
